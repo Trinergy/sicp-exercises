@@ -1,0 +1,12 @@
+What is the thought process to transcribe a recursive
+function to an iterative function?
+
+1.3
+Elements with the fewest restrictions
+what are the restrictions? how you consider first class status?
+
+privileges:
+They may be named by variables.
+They may be passed as arguments to procedures.
+They may be returned as the results of procedures.
+They may be included in data structures.65
