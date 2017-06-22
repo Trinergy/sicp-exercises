@@ -12,4 +12,4 @@ This process continues until a predicate is found whose value is true,
 in which case the interpreter returns the value of the corresponding
 consequent expression <e> of the clause as the value of the conditional expression.
 If none of the <p>'s is found to be true, the value of the cond is undefined.
-This evaluates all the <p> expressions
+This CAN evaluate all the <p> expressions
